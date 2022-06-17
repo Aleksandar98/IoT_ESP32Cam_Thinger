@@ -52,4 +52,4 @@ Ovako izgleda Devices tab ako se ESP32 povezao sa Thinger.io platformom
 
 U Api tabu u okviru Devices sekcije moguce je slati komande do modula 
 
-![Alt text](https://github.com/Aleksandar98/IoT_ESP32Cam_Thinger/images/devices_api.png?raw=true "Optional Title")
+![Alt text](https://github.com/Aleksandar98/IoT_ESP32Cam_Thinger/blob/main/images/devices_api.png?raw=true "Optional Title")
