@@ -13,10 +13,10 @@ Serial.begin(115200);
 ```
 
 ## Izlaz u serialnom monitoru
-![Alt text] (https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/03/esp32-cam-ip-address.png)
+![Alt text](https://github.com/Aleksandar98/IoT_ESP32Cam_Thinger/blob/main/images/arduino_serial.png?raw=true "Optional Title")
 
 ## Izgled web servera za konfiguraciju
-![Alt text] (https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/03/ESP32-CAM-video-streaming-example.jpg)
+![Alt text](https://github.com/Aleksandar98/IoT_ESP32Cam_Thinger/blob/main/images/esp32cam_config.png?raw=true "Optional Title")
 
 Modlu komunicira sa Thinger.io platformom tako sto se prvobitno na nju povezuje u setup delu programa
 ```c++
@@ -42,13 +42,13 @@ Potom u dvosmernoj komunikaciji sa Thinger.io platformom modlu salje podatke kad
 
 ## Mapa pinova na ESP32 Cam modulu
 
-![Alt text] (https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2019/03/ESP32-CAM-pinout-1.png)
+![Alt text](https://github.com/Aleksandar98/IoT_ESP32Cam_Thinger/blob/main/images/esp32pins.png?raw=true "Optional Title")
 
 # Thinger.io
 
 Ovako izgleda Devices tab ako se ESP32 povezao sa Thinger.io platformom
 
-![Alt text](https://github.com/Aleksandar98/IoT_ESP32Cam_Thinger/images/devices_dashboard.png?raw=true "Optional Title")
+![Alt text](https://github.com/Aleksandar98/IoT_ESP32Cam_Thinger/blob/main/images/devices_dashboard.png?raw=true "Optional Title")
 
 U Api tabu u okviru Devices sekcije moguce je slati komande do modula 
 
